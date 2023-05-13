@@ -1,2 +1,2 @@
 # quiz
-Onlice quiz constructor
+Online quiz constructor
