@@ -1,0 +1,157 @@
+{
+    "quiz": [
+        {
+            "question": "В каком году основан сервер?",
+            "answers": [
+                {
+                    "text": "2021",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2022",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2023",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Основатель сервера?",
+            "answers": [
+                {
+                    "text": "Алексей Тыква (Никита)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Многоликий (Федя)",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Peperoni241(АртЁм)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Когда беларус-трап покинул сервер?",
+            "answers": [
+                {
+                    "text": "Вчера",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2022 год",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2021 год",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Разработчик долгостроя (Metal Hell)",
+            "answers": [
+                {
+                    "text": "PavGat(Паша)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Федя",
+                    "isCorrect": false
+                },
+                {
+                    "text": "bezdar`",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Самый олдовый чел которого знает Никита",
+            "answers": [
+                {
+                    "text": "Дима (тот самый)",
+                    "isCorrect": true
+                },
+                {
+                    "text": "joparo",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Laker",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "За что давали ачивку \"VIDно что вы олд сервера\"",
+            "answers": [
+                {
+                    "text": "За красивые глазки",
+                    "isCorrect": false
+                },
+                {
+                    "text": "За дислокацию с сервера Айрана",
+                    "isCorrect": true
+                },
+                {
+                    "text": "За упругую попу (Аня привет)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "За что давали ачивку \"VIDно что вы олд сервера\"",
+            "answers": [
+                {
+                    "text": "За красивые глазки",
+                    "isCorrect": false
+                },
+                {
+                    "text": "За дислокацию с сервера Айрана",
+                    "isCorrect": true
+                },
+                {
+                    "text": "За упругую попу (Аня привет)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "За что давали ачивку \"VIDно что вы олд сервера\"",
+            "answers": [
+                {
+                    "text": "За красивые глазки",
+                    "isCorrect": false
+                },
+                {
+                    "text": "За дислокацию с сервера Айрана",
+                    "isCorrect": true
+                },
+                {
+                    "text": "За упругую попу (Аня привет)",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "С какого сервера тот самый Егор?",
+            "answers": [
+                {
+                    "text": "С сервера Midjorney",
+                    "isCorrect": false
+                },
+                {
+                    "text": "С сервера димпы",
+                    "isCorrect": true
+                },
+                {
+                    "text": "С сервера айрата",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
